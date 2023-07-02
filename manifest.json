@@ -1,0 +1,41 @@
+{
+    "manifest_version": 3,
+    "name": "Projekt 2023 - w64191",
+    "version": "1.0",
+    "permissions": [
+      "activeTab",
+      "scripting",
+      "storage",
+      "permissions"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "/assets/16.png",
+        "48": "/assets/48.png",
+        "128": "/assets/128.png"
+      }
+    },
+    "icons": {
+      "16": "/assets/16.png",
+      "48": "/assets/48.png",
+      "128": "/assets/128.png"
+    },
+    "action_handlers": {
+      "default": {
+        "type": "popup"
+      }
+    },
+    "host_permissions":
+    [
+      "*://*/*"
+    ],
+    "web_accessible_resources": [
+      {
+        "resources": ["css/styles.css"],
+        "matches": ["<all_urls>"]
+      }
+    ]
+  }
+
+  
