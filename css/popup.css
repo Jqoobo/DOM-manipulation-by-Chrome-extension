@@ -15,13 +15,11 @@ width: 60px;
 height: 34px;
 }
 
-
 .switch input {
 opacity: 0;
 width: 0;
 height: 0;
 }
-
 
 .slider {
 position: absolute;
@@ -60,7 +58,6 @@ input:checked + .slider:before {
 -ms-transform: translateX(26px);
 transform: translateX(26px);
 }
-
 
 .slider.round {
 border-radius: 34px;

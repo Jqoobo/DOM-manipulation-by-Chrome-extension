@@ -32,7 +32,13 @@
     ],
     "web_accessible_resources": [
       {
-        "resources": ["css/styles.css"],
+        "resources": [
+        "css/styles.css", 
+        "css/styles2.css",
+        "css/styles3.css",
+        "css/styles4.css",
+        "css/styles5.css"
+      ],
         "matches": ["<all_urls>"]
       }
     ]
