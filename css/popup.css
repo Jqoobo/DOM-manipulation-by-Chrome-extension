@@ -46,11 +46,11 @@ transition: .4s;
 }
 
 input:checked + .slider {
-background-color: #9592F5;
+background-color: #04d9ff;
 }
 
 input:focus + .slider {
-box-shadow: 0 0 3px #9592F5;
+box-shadow: 0 0 3px #04d9ff;
 }
 
 input:checked + .slider:before {
@@ -87,5 +87,5 @@ p{
 }
 
 a:-webkit-any-link{
-  color: #9592F5;
+  color: #ff7f00;
 }
