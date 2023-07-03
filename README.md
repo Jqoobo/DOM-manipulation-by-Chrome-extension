@@ -17,11 +17,14 @@ Project setup:
 1. Pobieramy pliki z repozytorium (zalecany .zip). Następnie wchodzimy w menedżer rozszerzeń w Google Chrome.
 ```
 ```
-2. Włączamy tryb deweloperski
+2. Następnie wchodzimy w menedżer rozszerzeń w Google Chrome.
 ```
 ```
-3. Rozpakowany folder dodajemy poprzez opcję "Załaduj rozpakowane"
+3. Włączamy tryb deweloperski
 ```
 ```
-4. Aktywujemy rozszerzenie i korzystamy!
+4. Rozpakowany folder dodajemy poprzez opcję "Załaduj rozpakowane"
+```
+```
+5. Aktywujemy rozszerzenie i korzystamy!
 ```
