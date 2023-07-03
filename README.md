@@ -14,7 +14,7 @@ Manifest Version: 3
 ```
 Project setup:
 ```
-1. Pobieramy pliki z repozytorium (zalecany .zip). Następnie wchodzimy w menedżer rozszerzeń w Google Chrome.
+1. Pobieramy pliki z repozytorium (zalecany .zip).
 ```
 ```
 2. Następnie wchodzimy w menedżer rozszerzeń w Google Chrome.
